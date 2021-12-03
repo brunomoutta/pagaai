@@ -1,3 +1,3 @@
 <html>
-    olá
+    olá.
 </html>
